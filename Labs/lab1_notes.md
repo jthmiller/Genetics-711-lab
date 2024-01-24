@@ -114,7 +114,7 @@ ls -F
 ```  
 man ls
 ```  
- - I dont use man. It is much quicker to google stuff. 
+ - I dont use man. It is much quicker to google stuff. Show biostars and stackoverflow for doing the same thing
 
 ### QUESTION1
 - Use the -l option for the ls command to display more information for each item in the directory. 

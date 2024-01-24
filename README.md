@@ -8,11 +8,8 @@ https://datacarpentry.org/lessons/#genomics-workshop
 To do:
 - Instructions for installing on windows machines. 
 - List of software/items for students:
-    - vscode
-    - vscode ssh-remote
+    - install vscode
+    - vscode remote ssh https://code.visualstudio.com/docs/remote/ssh
     - sign up for a github account
-
-
-- gen 711 data folder 
-
-- each student will clone the gen711 repo with all the example data in it. 
+- each student will fork the gen711 repo with all the example data in it. 
+https://github.com/jthmiller/gen711-811
