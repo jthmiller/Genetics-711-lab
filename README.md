@@ -6,17 +6,26 @@ https://datacarpentry.org/lessons/#genomics-workshop
 
 
 To do:
-- Instructions for installing on windows machines. 
+- SSH setup with Windows
+  - Can use PuTTY for direct terminal
+  - Setting up remote development on windows VSCode
 - List of software/items for students:
-    - install vscode
-    - vscode remote ssh https://code.visualstudio.com/docs/remote/ssh
-    - sign up for a github account
+    - install VSCode remote ssh https://code.visualstudio.com/docs/remote/ssh
+    - sign up for a GitHub account
 - each student will fork the gen711 repo with all the example data in it. 
 https://github.com/jthmiller/gen711-811
 
 <details open> <summary><b>Lab Outlines</b></summary>
 
 <details><summary><a href="Labs/Lab1_new/">Lab 1</a></summary>
+
+- setting up student SSH
+- VSCode basics
+- Git/ GitHub
+- Extras
+  - nano/tmux
+  - VSCode extensions
+  - PS1 changing
 
 </details> <!-- End Lab 1-->
 
