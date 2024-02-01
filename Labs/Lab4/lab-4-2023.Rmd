@@ -5,7 +5,7 @@ date: "2022 Feb 24"
 output: pdf_document
 ---
 
-render('lab-4-2023.md', output_format = "pdf_document")  
+<!-- render('lab-4-2023.md', output_format = "pdf_document")  -->
 
 
 ## Review Last Week Objectives:

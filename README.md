@@ -16,7 +16,7 @@ https://github.com/jthmiller/gen711-811
 
 <details open> <summary><b>Lab Outlines</b></summary>
 
-<details><summary><a href="Labs/Lab1/">Lab 1</a></summary>
+<details><summary><a href="Labs/Lab1_new/">Lab 1</a></summary>
 
 </details> <!-- End Lab 1-->
 
