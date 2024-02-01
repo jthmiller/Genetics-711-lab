@@ -14,7 +14,7 @@ To do:
 - each student will fork the gen711 repo with all the example data in it. 
 https://github.com/jthmiller/gen711-811
 
-<details open> <summary><b>Lab Outlines</b><summary>
+<details open> <summary><b>Lab Outlines</b></summary>
 
 <details><summary><a href="Labs/Lab1/">Lab 1</a></summary>
 
